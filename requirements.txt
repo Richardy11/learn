@@ -1,0 +1,9 @@
+PyBluez-0.23-cp36-cp36m-win_amd64.whl
+scipy
+numpy
+matplotlib
+scikit-learn
+pyqt5
+psutil
+bleak
+mpl_interactions
